@@ -153,3 +153,10 @@ Back to the browser under Database Settings, type "osTicket" in the MySQL Databa
 Your'e done! To clean up, delete C:\inetpub\wwwroot\osTicket\setup and set permissions to "Read" only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 </p>
 <br />
+
+<p>
+Link for Admin Login: http://localhost/osTicket/scp/login.php
+</p>
+<p>
+Link for End Users: http://localhost/osTicket/
+</p>
