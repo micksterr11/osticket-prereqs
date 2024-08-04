@@ -24,11 +24,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install PHP and extract contents into C:\PHP
 - Install Microsoft Visual C++
 - Install MySQL
+- Install osTicket
+- Link for all installation files
 
 <h2>Installation Steps</h2>
 
 <p>
-![image](https://github.com/user-attachments/assets/5a97227c-9dbb-4def-b934-fde9d8e03283)
+<img src="https://github.com/user-attachments/assets/bf3b1067-fb6f-491d-ae75-2c9677bf1aa1"/>
+
 </p>
 <p>
 Install/Enable IIS by going to Control Panel>Programs>Turn Windows features on or off>Internet Information Services. Expand Internet Information Systems and Application Development Features and check CGI, then collapse and expand Command HTTP Features and check all boxes. Click OK.
