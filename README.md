@@ -112,7 +112,7 @@ In IIS, sites>Default Web Site>osTicket>PHP Manager>Enable or disable extension.
 Rename the file "ost-sampleconfig.php" to "ost-config.php" File path: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 </p>
 <p>
-Right click the file "ost-config/php" Properties>Security>Advanced>Disable Inheritance>Remove all. Next you will add permissions by clicking Add>Select a Principal, type "Everyone" into the object names, click "Check Names", and click OK. Finally, select "Full Control" and Apply.
+Right click the file "ost-config.php" Properties>Security>Advanced>Disable Inheritance>Remove all. Next you will add permissions by clicking Add>Select a Principal, type "Everyone" into the object names, click "Check Names", and click OK. Finally, select "Full Control" and Apply.
 </p>
 <br />
 
